@@ -4,8 +4,6 @@ import $ from 'jquery';
 import StickyHeader from './modules/StickyHeader';
 import Modal from './modules/Modal';
 
-
-
 var mobileMenu = new MobileMenu();
 // var revealOnScroll = new RevealOnScroll();
 new RevealOnScroll($(".feature-item"), "85%");
